@@ -13,7 +13,7 @@ const ABSTRACT_IMG = "https://d2xsxph8kpxj0f.cloudfront.net/310519663455782975/T
 const roiData = [
   { mois: "M0", leadership: 40, communication: 35, decisions: 45 },
   { mois: "M1", leadership: 48, communication: 42, decisions: 50 },
-  { mois: "M7", leadership: 55, communication: 52, decisions: 58 },
+  { mois: "M2", leadership: 55, communication: 52, decisions: 58 },
   { mois: "M3", leadership: 65, communication: 62, decisions: 68 },
   { mois: "M4", leadership: 73, communication: 70, decisions: 75 },
   { mois: "M5", leadership: 82, communication: 79, decisions: 83 },
